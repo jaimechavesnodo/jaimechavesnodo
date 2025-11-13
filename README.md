@@ -30,11 +30,9 @@ I specialize in: **Python · SQL · Machine Learning · AI · Analytics · Custo
 ---
 
 ## 📌 Featured Projects (pin your top repos)  
-- [RepoName1](https://github.com/jaimechavesnodo/Repo1) – Machine learning project for customer churn prediction.  
-- [RepoName2](https://github.com/jaimechavesnodo/Repo2) – Customer analytics pipeline using Python & SQL.  
-- [RepoName3](https://github.com/jaimechavesnodo/Repo3) – Interactive loyalty dashboard and KPI tracking.
-
-📌 *Make sure to pin these repositories so they appear at the top of your profile.*
+- BACK JGB (https://github.com/jaimechavesnodo/BACK_JGB) – Machine learning project for customer churn prediction.  
+- STREAMLIT TEST (https://github.com/jaimechavesnodo/streamlit_test) – Customer analytics pipeline using Python & SQL.  
+- SHELL MOTOGP (https://github.com/jaimechavesnodo/MotogpArgentina) – Interactive landing for promotional activity with dashboard and KPI tracking.
 
 ---
 
@@ -103,11 +101,9 @@ Me especializo en: **Python · SQL · Machine Learning · IA · Analítica · Cu
 ---
 
 ## 📌 Proyecto destacados (pin your top repos)  
-- [NombreDeRepositorio1](https://github.com/jaimechavesnodo/Repo1) – Proyecto de machine learning para predicción de churn.  
-- [NombreDeRepositorio2](https://github.com/jaimechavesnodo/Repo2) – Pipeline de analítica de clientes con Python & SQL.  
-- [NombreDeRepositorio3](https://github.com/jaimechavesnodo/Repo3) – Dashboard interactivo de fidelización y KPIs.
-
-📌 *Asegúrate de anclar estos repositorios para que aparezcan en la parte superior de tu perfil.*
+- BACK JGB (https://github.com/jaimechavesnodo/BACK_JGB) – Proyecto de machine learning para predicción de churn.
+- STREAMLIT TEST (https://github.com/jaimechavesnodo/streamlit_test) – Pipeline de analítica de clientes con Python & SQL.  
+- SHELL MOTOGP (https://github.com/jaimechavesnodo/MotogpArgentina) – Dashboard interactivo de fidelización y KPIs.
 
 ---
 
@@ -117,7 +113,7 @@ Me especializo en: **Python · SQL · Machine Learning · IA · Analítica · Cu
 ---
 
 ## 📍 Colaboraciones & Cronología  
-- 2024–Present: Fundador & CDO – NODO LABS  
+- 2024–Present: Fundador & CEO – NODO LABS  
 - 2018–2024: Country Manager & Innovation Leader – Findasense (Región Andina)  
 - 2012–2016: SVP Data Intelligence – ARIADNA Communications Group  
 - 2001–2005: Licenciatura en Publicidad – Universidad Jorge Tadeo Lozano  
