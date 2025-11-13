@@ -29,7 +29,7 @@ I specialize in: **Python · SQL · Machine Learning · AI · Analytics · Custo
 
 ---
 
-## 📌 Featured Projects (pin your top repos)  
+## 📌 Featured Projects
 - BACK JGB (https://github.com/jaimechavesnodo/BACK_JGB) – Machine learning project for customer churn prediction.  
 - STREAMLIT TEST (https://github.com/jaimechavesnodo/streamlit_test) – Customer analytics pipeline using Python & SQL.  
 - SHELL MOTOGP (https://github.com/jaimechavesnodo/MotogpArgentina) – Interactive landing for promotional activity with dashboard and KPI tracking.
@@ -100,7 +100,7 @@ Me especializo en: **Python · SQL · Machine Learning · IA · Analítica · Cu
 
 ---
 
-## 📌 Proyecto destacados (pin your top repos)  
+## 📌 Proyecto destacados
 - BACK JGB (https://github.com/jaimechavesnodo/BACK_JGB) – Proyecto de machine learning para predicción de churn.
 - STREAMLIT TEST (https://github.com/jaimechavesnodo/streamlit_test) – Pipeline de analítica de clientes con Python & SQL.  
 - SHELL MOTOGP (https://github.com/jaimechavesnodo/MotogpArgentina) – Dashboard interactivo de fidelización y KPIs.
