@@ -42,8 +42,8 @@ I specialize in: **Python · SQL · Machine Learning · AI · Analytics · Custo
 ---
 
 ## 📍 Collaborations & Timeline  
-- 2024–Present: Founder & CDO – NODO LABS  
-- 2018–2024: Country Manager & Innovation Leader – Findasense (Andean Region)  
+- 2020–Present: Founder & CDO – NODO LABS  
+- 2018–2020: Country Manager & Innovation Leader – Findasense (Andean Region)  
 - 2012–2016: SVP Data Intelligence – ARIADNA Communications Group  
 - 2001–2005: Bachelor in Advertising – Universidad Jorge Tadeo Lozano  
 
