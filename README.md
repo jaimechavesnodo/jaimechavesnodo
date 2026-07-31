@@ -5,7 +5,7 @@
 ---
 
 ## 🧭 About me  
-With over 20 years leading digital transformation, data-driven innovation and customer experience (CX) across Latin America, I blend relational marketing, data analytics, machine learning and strategic vision to design and execute solutions that create sustainable competitive advantages.  
+I'm a MBA with over 20 years leading digital transformation, data-driven innovation and customer experience (CX) across Latin America, I blend relational marketing, data analytics, machine learning and strategic vision to design and execute solutions that create sustainable competitive advantages.  
 My mission is to turn every interaction, every dataset and every initiative into **measurable growth**, operational efficiency and customer loyalty.  
 I specialize in: **Python · SQL · Machine Learning · AI · Analytics · Customer Experience · Digital Transformation · Executive Strategy.**
 
